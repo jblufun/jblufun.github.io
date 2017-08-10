@@ -1,35 +1,18 @@
 body {
-  backround-color;white
-  
+  backround-color:white;
+  display: block;
+  margin: 0px;
   }
   
   
-  hi {
-    color:white;
+  h1 {
+    color:black;
     text-align:left;
     
     }
-    
-    
-    p {
-      font-family:arial;
-      font-size
-      
-      }
-
-body {
-    background-color: #66b3ff;
-    display: block;
-    margin: 0px;
-}
 
 p {
     font-family: Helvetica, sans-serif;
-}
-
-hr {
-    color: green;
-    size: 20px;
 }
 
 #home {
@@ -43,32 +26,11 @@ hr {
 }
 
 h1 {
-    font-family: 'Eater';
     font-size: 3em;
     color: orange;
     text-align: right;
     padding-right: 80px;
     padding-top: 20px;
-}
-
-#about {
-    background-color: yellow;
-    padding: 20px;
-}
-
-#list {
-    background-color: green;
-    padding: 20px;
-}
-
-#table {
-    background-color: purple;
-    padding: 20px;
-}
-
-#movie {
-    background-color: pink;
-    padding: 20px;
 }
 
 ul {
